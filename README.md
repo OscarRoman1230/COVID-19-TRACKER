@@ -74,7 +74,7 @@ _Agrega aquí imágenes del dashboard funcionando._
  ┃ ┣ 📜 LoginView.vue  # Vista de login
  ┣ 📂 store  # Manejo de estado con Pinia
  ┣ 📂 router  # Configuración de rutas
- ┣ 📂 plugins  # Configuración de Google Maps y Vuetify
+ ┣ 📂 plugins  # Configuración de Vuetify
  ┣ 📜 main.ts  # Archivo de entrada principal
 ```
 
